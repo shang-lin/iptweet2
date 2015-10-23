@@ -1,0 +1,7 @@
+[twitter]
+; Fill in your Twitter credentials, obtained when you create a 
+; developer account and a new app.
+CONSUMER_KEY=my_consumer_key
+CONSUMER_SECRET=my_consumer_secret
+ACCESS_TOKEN=my_access_token
+ACCESS_TOKEN_SECRET=my_access_token_secret
